@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tic-tac-game/static/css/main.bc2739a7.chunk.css",
-    "main.js": "/tic-tac-game/static/js/main.5fae231a.chunk.js",
-    "main.js.map": "/tic-tac-game/static/js/main.5fae231a.chunk.js.map",
+    "main.js": "/tic-tac-game/static/js/main.82b72158.chunk.js",
+    "main.js.map": "/tic-tac-game/static/js/main.82b72158.chunk.js.map",
     "runtime-main.js": "/tic-tac-game/static/js/runtime-main.06ab5036.js",
     "runtime-main.js.map": "/tic-tac-game/static/js/runtime-main.06ab5036.js.map",
     "static/js/2.a7c022cb.chunk.js": "/tic-tac-game/static/js/2.a7c022cb.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.06ab5036.js",
     "static/js/2.a7c022cb.chunk.js",
     "static/css/main.bc2739a7.chunk.css",
-    "static/js/main.5fae231a.chunk.js"
+    "static/js/main.82b72158.chunk.js"
   ]
 }
