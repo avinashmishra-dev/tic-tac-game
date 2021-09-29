@@ -35,14 +35,16 @@ const Game = () => {
   };
   useEffect(() => {
     const getWinner = winner();
+    setTimeout(()=>{
     if (getWinner) {
       alert(`${getWinner} has won the game`);
       setGameData(initialState);
-    }
+    }},1000)
   }, [gameData]);
 
   return (
     <div className="app-header">
+        <p>Click on any of the box to start the Game</p>
       <div className="row jc-center">
         <GameUI
           className={"b-bottom-right"}
